@@ -18,7 +18,6 @@ public class ExampleWEEK2 {
         // TODO code application logic here
         System.out.println("hello");
         System.out.println("hi again");
-        System.out.println("sorry, line again");
     }
     
 }
