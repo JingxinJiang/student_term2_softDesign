@@ -10,10 +10,10 @@ package exampleweek2;
  * @author seanz
  */
 public class ParTimeStudent extends student{
-    private int numCourse;
+    private int munCourse;
     public ParTimeStudent(String name, int num, int numCourse){
         super(name, num); //call the constructor of student class
-        this.numCourse=numCourse;
+        this.munCourse=numCourse;
     }
     public int getMunCourse() {
         return munCourse;
