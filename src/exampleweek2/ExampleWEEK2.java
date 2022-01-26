@@ -22,6 +22,10 @@ public class ExampleWEEK2 {
         student stu2=new student("seya",30);
         System.out.println("student1 name is "+stu2.getName());
         System.out.println("student1 num is "+stu2.getNum());
+        student stu3=new student("Tanya",40);
+        System.out.println("student1 name is "+stu2.getName());
+        System.out.println("student1 num is "+stu2.getNum());
+     
     }
     
 }
