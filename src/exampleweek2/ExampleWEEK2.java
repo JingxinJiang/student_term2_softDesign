@@ -19,6 +19,9 @@ public class ExampleWEEK2 {
         student stu1=new student("selena",34);
         System.out.println("student1 name is "+stu1.getName());
         System.out.println("student1 num is "+stu1.getNum());
+        student stu2=new student("seya",30);
+        System.out.println("student1 name is "+stu2.getName());
+        System.out.println("student1 num is "+stu2.getNum());
     }
     
 }
