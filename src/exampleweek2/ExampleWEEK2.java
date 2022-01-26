@@ -16,9 +16,10 @@ public class ExampleWEEK2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hello");
-        System.out.println("hi again");
-        int a=5;
+        
+        student stu1=new student("selena",34);
+        System.out.println("student1 name is "+stu1.getName());
+        System.out.println("student1 num is "+stu1.getNum());
     }
     
 }
